@@ -4139,6 +4139,7 @@ lib.composeManyExtensions [
             setuptools
             numpy
             six
+            attrdict
           ]);
         in
         {
